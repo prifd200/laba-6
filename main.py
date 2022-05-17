@@ -1,8 +1,5 @@
 import time
-
-import matplotlib.pyplot as plt
 import numpy as np
-
 try:
     np.set_printoptions(precision=3, linewidth=150)
     start = time.time()
